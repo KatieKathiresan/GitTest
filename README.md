@@ -1,4 +1,4 @@
-# Project Title
+# Testing Git
 Short description of project.
 
 ## Table of Contents
